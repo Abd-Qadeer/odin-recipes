@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is Abdul Qadeer Ali's first project, in this project Abdul will be creating a website for a variety of recipes, the purpose of this website is for Abdul to demonstrate what he has learned in his foundational HTML course, you can expect to see the following: ability create a website, be able to link a webpage to other webpages on that website, ability to create a boilerplate, correct use of tags and elements, use of features such as links and lists as well as being able to embed images.
